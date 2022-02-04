@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6F9089E1-1AA8-4BE5-867E-58E2303C38D1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LeoRover",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}

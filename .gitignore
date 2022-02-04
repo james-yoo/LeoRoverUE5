@@ -1,0 +1,10 @@
+/.ignore
+/Makefile
+/LeoRover.code-workspace
+
+Content/StarterContent/ 
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
