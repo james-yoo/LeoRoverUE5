@@ -1,5 +1,5 @@
-# LeoRover-UE5
-LeoRover simulation based on Unreal Engine 5
+# LeoRover-UE
+LeoRover simulation based on Unreal Engine 4/5
 
 ## Requirements
 - Ubuntu 20.04
