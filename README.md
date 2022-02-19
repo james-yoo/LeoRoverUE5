@@ -4,7 +4,7 @@ LeoRover simulation based on Unreal Engine 4/5
 ## Requirements
 - Ubuntu 20.04
 - Nvidia RTX 2070+
-- Unreal Engine 5 (compile from source)
+- Unreal Engine 4.27 or 5 (compile from source)
 
 ## Setup
 1. Clone this repo.
