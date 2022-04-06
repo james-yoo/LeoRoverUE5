@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class LeoRover : ModuleRules
+public class LeoRoverUE5 : ModuleRules
 {
-	public LeoRover(ReadOnlyTargetRules Target) : base(Target)
+	public LeoRoverUE5(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

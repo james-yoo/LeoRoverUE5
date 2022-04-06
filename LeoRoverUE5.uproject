@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "LeoRover",
+			"Name": "LeoRoverUE5",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}

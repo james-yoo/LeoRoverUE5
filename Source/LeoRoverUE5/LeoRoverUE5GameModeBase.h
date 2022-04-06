@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "LeoRoverGameModeBase.generated.h"
+#include "LeoRoverUE5GameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class LEOROVER_API ALeoRoverGameModeBase : public AGameModeBase
+class LEOROVERUE5_API ALeoRoverUE5GameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	

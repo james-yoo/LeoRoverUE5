@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class LeoRoverEditorTarget : TargetRules
+public class LeoRoverUE5EditorTarget : TargetRules
 {
-	public LeoRoverEditorTarget( TargetInfo Target) : base(Target)
+	public LeoRoverUE5EditorTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "LeoRover" } );
+		ExtraModuleNames.AddRange( new string[] { "LeoRoverUE5" } );
 	}
 }
