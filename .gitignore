@@ -1,6 +1,7 @@
 /.ignore
 /Makefile
 /LeoRoverUE5.code-workspace
+/LeoRoverUE5.sln
 
 Content/StarterContent/ 
 Binaries/
@@ -8,3 +9,4 @@ DerivedDataCache/
 Intermediate/
 Saved/
 .vscode/
+.vs/
