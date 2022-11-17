@@ -27,10 +27,8 @@ LeoRover simulation based on UnrealEngine5
    ```
    git clone https://github.com/james-yoo/LeoRover-UE5.git
    ```
-2. Open 'update_project_files.sh' and 'run_editor.sh' files with text editor. Modify the path of the Unreal Engine 5 root directory.
-   ```
-   UE5_ROOT="<path>/<to>/<ue5_root>"
-   ```
+2. Open 'update_project_files.sh' and 'run_editor.sh' files with text editor. Modify the path of the Unreal Engine 5 root directory for 'GENERATOR_COMMAND' variable.
+
 3. Run update_project_files.sh to generate Makefile.
    ```
    cd LeoRover-UE5
