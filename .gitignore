@@ -3,7 +3,10 @@
 /LeoRoverUE5.code-workspace
 /LeoRoverUE5.sln
 
-Content/StarterContent/ 
+Content/StarterContent/
+Content/MSPresets/
+Content/Megascans/
+
 Binaries/
 DerivedDataCache/
 Intermediate/
