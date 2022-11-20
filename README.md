@@ -1,5 +1,5 @@
 # LeoRover-UE5
-LeoRover simulation based on UnrealEngine5
+LeoRover simulation based on Unreal Engine 5
 ![image](https://user-images.githubusercontent.com/23667624/156864506-d99af51e-1faf-400b-9b0f-c0880ecfee81.png)
 
 ## Requirements
@@ -27,7 +27,7 @@ LeoRover simulation based on UnrealEngine5
    ```
    git clone https://github.com/james-yoo/LeoRover-UE5.git
    ```
-2. Open 'update_project_files.sh' and 'run_editor.sh' files with text editor. Modify the path of the Unreal Engine 5 root directory for 'GENERATOR_COMMAND' variable.
+2. Open 'update_project_files.sh' and 'run_editor.sh' files with text editor. Set the root directory path for Unreal Engine 5 in the 'GENERATOR_COMMAND' variable.
 
 3. Run update_project_files.sh to generate Makefile.
    ```
